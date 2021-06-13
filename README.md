@@ -9,6 +9,7 @@ Hi, I'm Jimmy
 **Currently learning:**
 
 > 📝Currently learning: JavaScript
+> Old account: https://github.com/MightBeASlut
 
 **Languages and Tools:**  
 
