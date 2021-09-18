@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jimmy</h1>
+<h3 align="center">I'm a website developer.</h3>
 
 
 ## 🙋‍♂️ About Jimmy 
@@ -34,7 +34,6 @@
 
   <br/>
     <a href="https://github.com/Jimmy-Tran/github-readme-stats"><img alt="Jimmy Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true&theme=gotham" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true&theme=gotham" /></a>
   <br/>
 
 
