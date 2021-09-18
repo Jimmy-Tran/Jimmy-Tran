@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jimmy</h1>
-<h3 align="center">I'm a website developer.</h3>
+<h3 align="center">I'm a upcoming website developer.</h3>
 
 
 ## 🙋‍♂️ About Jimmy 
 
 - 🔭 I’m currently working on my portfolio site
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Algorithms.**
 
 
 - ⚡ Fun fact **I have been playing Minecraft for 8 years.**
