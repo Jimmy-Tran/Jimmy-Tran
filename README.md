@@ -4,14 +4,10 @@
 <h3 align="center">I'm a upcoming website developer.</h3>
 
 
-## 🙋‍♂️ About Jimmy 
+## 🙋‍♂️ Jimmy 
 
-- 🔭 I’m currently working on my portfolio site
+- 🔭 Website Developer
 
-- 🌱 I’m currently learning **Algorithms.**
-
-
-- ⚡ Fun fact **I have been playing Minecraft for 8 years.**
 
 ## 🚀 Languages and Tools:
 
