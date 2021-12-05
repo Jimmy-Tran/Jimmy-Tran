@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Jimmy 
 
-- 🔭 Website Developer
+- 🔭 Working on a hosting site.
 
 
 ## 🚀 Languages and Tools:
