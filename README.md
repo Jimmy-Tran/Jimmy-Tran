@@ -1,8 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jimmy</h1>
-<h3 align="center">Front-End developer</h3>
-
 
 ## 🙋‍♂️ Jimmy 
 
@@ -28,7 +23,7 @@
     <a float="left" href="https://github.com/Jimmy-Tran/github-readme-stats"><img alt="Jimmy Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true&theme=gotham" /></a>
 <p float="right">
     <a href="https://github.com/Jimmy-Tran/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jimmy Tran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-Tran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img float="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jimmy Tran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-Tran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   <br/>
@@ -39,7 +34,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Jimmy-Tran">
 </a>
