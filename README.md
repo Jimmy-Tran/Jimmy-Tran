@@ -25,8 +25,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Jimmy-Tran/github-readme-stats"><img alt="Jimmy Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true&theme=gotham" /></a>
-<p align="center">
+    <a float="left" href="https://github.com/Jimmy-Tran/github-readme-stats"><img alt="Jimmy Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true&theme=gotham" /></a>
+<p float="right">
     <a href="https://github.com/Jimmy-Tran/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jimmy Tran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-Tran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
