@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Jimmy 
 
-- 🔭 Working on a hosting site.
+- 🔭 Freelancer @ DevRoom
 
 
 ## 🚀 Languages and Tools:
