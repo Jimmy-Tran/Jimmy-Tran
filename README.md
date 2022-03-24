@@ -2,7 +2,7 @@
 ## 🙋‍♂️ Jimmy 
 
 - 🔭 Freelancer @ DevRoom
-
+- 🔭 Trial @ Senior Team
 
 ## 🚀 Languages and Tools:
 
