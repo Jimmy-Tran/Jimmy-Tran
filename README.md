@@ -1,40 +1,45 @@
-
-## 🙋‍♂️ Jimmy 
-
-- 🔭 Freelancer @ DevRoom
-- 🔭 Trial @ Senior Team
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<h1 align="center">🚀 Jimmy Tran<br><br></h1>
+<p align="center">
+</br>
+<p align="center">
+ 💎 💎 💎 </br>
+ Let's learn and grow my skills from a technical standpoint ! <br>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" />
+<div align="center">
+  <a href="https://github.com/Jimmy-Tran">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jimmy-Tran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Tran&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rick-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC3jaRxbvPLrRSjFa74LJypg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/hrmenezes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/PawmGxFy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:riklima111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-lima-menezes-das-neves-715253204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   ##
+  
+  ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966](https://user-images.githubusercontent.com/62913144/164561476-e453e0e0-4842-4954-8404-3d378e1415c2.gif)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a float="left" href="https://github.com/Jimmy-Tran/github-readme-stats"><img alt="Jimmy Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true&theme=gotham" /></a>
-<p float="right">
-    <a href="https://github.com/Jimmy-Tran/github-readme-streak-stats">
-        <img float="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jimmy Tran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-Tran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  
+ ![Snake animation](https://github.com/Henriqueiru/Henriqueiru/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/Henriqueiru/count.svg"/>
 </p>
-  <br/>
-
-
-<br/>
-<br/>
-
-</p>
-
-## ❤ Views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Jimmy-Tran">
-</a>
+ 
