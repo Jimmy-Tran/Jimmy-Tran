@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Jimmy Tran<br><br></h1>
+<img src="https://raw.githubusercontent.com/Jimmy-Tran/Jimmy-Tran/main/Jimmy%20Tran.png"/>
 <p align="center">
 </br>
 <p align="center">
