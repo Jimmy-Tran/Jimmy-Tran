@@ -1,4 +1,4 @@
-<img height="400px" width="100%" src="https://raw.githubusercontent.com/Jimmy-Tran/Jimmy-Tran/main/Jimmy%20Tran.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/Jimmy-Tran/Jimmy-Tran/main/Jimmy%20Tran-2.png"/>
 <p align="center">
 </br>
 <p align="center">
