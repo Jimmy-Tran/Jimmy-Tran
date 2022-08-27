@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jimmy 🌙</h1>
 
 <img width="100%" src="https://raw.githubusercontent.com/Jimmy-Tran/Jimmy-Tran/main/Jimmy%20Tran-2.png"/>
-<p align="center">
+<p>I'm a passionate Front-End developer that is specialized in developing modern website for various amount of clients with different of interests.</p>
 </br>
 <p align="center">
  💎  </br>
