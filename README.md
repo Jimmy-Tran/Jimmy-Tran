@@ -1,3 +1,5 @@
+<h1>Hi, I'm Jimmy 🌙</h1>
+<hr>
 <img width="100%" src="https://raw.githubusercontent.com/Jimmy-Tran/Jimmy-Tran/main/Jimmy%20Tran-2.png"/>
 <p align="center">
 </br>
