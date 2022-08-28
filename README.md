@@ -13,6 +13,7 @@
   
    ##
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true)
 
   
  
