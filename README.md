@@ -34,8 +34,4 @@
  
 </div>
   
-  <h3><p align="center">Total profile views:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/Jimmy-Tran/count.svg"/>
-</p>
  
