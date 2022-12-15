@@ -1,20 +1,15 @@
-<h1>Hi, I'm Jimmy 🌙</h1>
+Hey, I'm Jimmy 👋
+I'm a 17 year old front-end developer.
 
-<img width="100%" src="https://raw.githubusercontent.com/Jimmy-Tran/Jimmy-Tran/main/Jimmy%20Tran-2.png"/>
-<p>I'm a passionate Front-End developer that is specialized in developing modern website for various amount of clients with different kinds of interests. I'm currently studying computer science at Hogeschool Rotterdam. I'm always looking for perfection in the websites I develop for all my clients. </p>
-</br>
-  
-  <hr>
- 
-<div> 
-  <a href="https://instagram.com/jimmytrxn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jimmy.trxn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jimmytrxn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-   ##
+🔭 Current
+I'm currently studying at the Hogeschool Rotterdam and I specialize in front-end development. Right now I'm learning ReactJS and I'm excited to continue improving my skills.
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy-tran&show_icons=true&theme=github_dark)
- 
-</div>
-  
- 
+⚡️ Experience
+I have 2 years of experience working with HTML and CSS, and about 1 year of experience with Javascript. Currently, I'm learning Python as part of my studies. I'm excited to continue learning and improving my skills, and I'm always looking for new opportunities to grow as a developer.
+
+📫 Contact
+To contact me quickly and easily, DM me on discord (Jimmy.#1234)
+
+You can also email me at
+
+General Inquiries: hi@chiem.dev,  hey@jimmytran.org
